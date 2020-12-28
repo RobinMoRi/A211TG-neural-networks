@@ -1,0 +1,15 @@
+forecast,temperature,humidity,wind,game
+sun,hot,high,light,no
+sun,hot,high,strong,no
+cloudy,hot,high,light,yes
+rain,moderate,high,light,yes
+rain,cold,average,light,yes
+rain,cold,average,strong,no
+cloudy,cold,average,strong,yes
+sun,moderate,high,light,no
+sun,cold,average,light,yes
+rain,moderate,average,light,yes
+sun,moderate,average,strong,yes
+cloudy,moderate,high,strong,yes
+cloudy,hot,average,light,yes
+rain,moderate,high,strong,no
